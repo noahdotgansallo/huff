@@ -1311,9 +1311,9 @@
 
 	body {
 		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/jawn.jpg");
+		background-image: url("images/overlay.png"), url("../../images/jawn.png");
 		background-repeat: repeat, no-repeat;
-		background-size: auto, cover!important;
+		background-size: auto, cover;
 		background-position: top left, center;
 		background-attachment: fixed, fixed;
 		font-family: 'Source Sans Pro', sans-serif;
@@ -1793,6 +1793,7 @@
 		.box.style1 {
 			background: #fff;
 			padding: 3em;
+			padding-top: 2em!important;
 		}
 
 			.box.style1 .image {
