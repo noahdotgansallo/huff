@@ -1313,7 +1313,7 @@
 		background-color: #183026;
 		background-image: url("images/overlay.png"), url("../../images/jawn.png");
 		background-repeat: repeat, no-repeat;
-		background-size: auto, cover;
+		background-size: auto, fit;
 		background-position: top left, center;
 		background-attachment: fixed, fixed;
 		font-family: 'Source Sans Pro', sans-serif;
